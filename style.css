@@ -1,0 +1,39 @@
+.container { 
+    width: 300px; 
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto; 
+    background-color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+.counter {
+
+    color: white;
+    font-size: 44px;
+}
+.container-bt{
+    width: 290px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto; 
+    display:flex;
+    flex-direction: column;
+}
+.bt {
+    margin: 6px;
+    height: 50px;
+    border: none;
+    border-radius: 10px;
+}
+.bg-green {
+    background-color: lawngreen;
+}
+.bg-yellow {
+    background-color: yellow;
+}
+.bg-red {
+    background-color: red;
+}
